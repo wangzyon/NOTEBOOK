@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-next-line first-line-heading -->
 
-- **NOTEBOOKS**
+- [**NOTEBOOKS**](README.md)
 
   - [C/C++](cpp/)
 
