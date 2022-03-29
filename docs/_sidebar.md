@@ -1,4 +1,4 @@
-- [**NOTES**]()
+- [**Overview**]()
   - [C/C++](cpp/)
   
   - [Algorithm](Algorithm/)
@@ -11,7 +11,7 @@
   
   - [CUDA]()
   
-- **PROJECTS**
+- **Projects**
 
   - [![](icons/github.svg) MUDUO_PRACTICE](https://github.com/wangzyon/MUDUO_PRACTICE)
 
