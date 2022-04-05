@@ -1,1 +1,1 @@
-![cover](img/cover.png)
+![cover](media/cover.png)
